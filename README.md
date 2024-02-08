@@ -1,12 +1,12 @@
 ![Header](./gitpic.png)
 
-<h3>Software Engineering Undergraduate @SLIIT</h3>
+<h3>Information Technology Undergraduate @SLIIT</h3>
 <h6>BSc (Hons) in Information Technology
-Specializing in Software Engineering</h6>
+Specializing in Information Technology</h6>
 
 <hr>
 
-🌱 I’m currently learning <b>Software Engineering @SLIIT</b><br><br>📫 How to reach me movindusenuraaluthge@gmail.com<br><br>📞<b>+94 70 3396474</b><br><br>⚡ Fact <b>I LOVE COFFEE</b>
+🌱 I’m currently learning <b>Information Technology @SLIIT</b><br><br>📫 How to reach me hirunie@gmail.com<br><br>📞<b>+94 74 3870371</b><br><br>⚡ Fact <b>I LOVE JUICE</b>
 
 <hr>
 
@@ -14,10 +14,11 @@ Specializing in Software Engineering</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/movindusenura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/movindusenura" height="35" width="40" /></a>
-<a href="https://instagram.com/movindu_senura" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="movindu_senura" height="35" width="40" /></a>
-<a href="https://twitter.com/SenuraAluthge" target="blank"><img  align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="movindu_senura" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/hiruni-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hiruni-de-silva" height="35" width="40" /></a>
+<a href="https://fb.com/hiruni-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiruni-de-silva" height="35" width="40" /></a>
+<a href="https://instagram.com/hirunie_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunie_01" height="35" width="40" /></a>
 </p>
+
 
 <h3>Languages and Tools:</h3>  
 <div align="left">  
@@ -41,10 +42,10 @@ Specializing in Software Engineering</h6>
 </div>
 <hr>
 
+![](https://github-readme-stats.vercel.app/api?username=hirunie01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hirunie01&theme=dark&hide_border=false)<br/>
 
-
-![](https://github-readme-stats.vercel.app/api?username=MovinduSenura&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MovinduSenura&theme=dark&hide_border=true)
+ 
   
 <hr>
 
@@ -53,4 +54,3 @@ Specializing in Software Engineering</h6>
 ### ✍ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
-<img width="35%" align="left" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png> <br>
